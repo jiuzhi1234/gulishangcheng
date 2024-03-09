@@ -5,6 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gulishangcheng-product/pom.xml" />
+        <option value="$PROJECT_DIR$/gulishangcheng-ware/pom.xml" />
+        <option value="$PROJECT_DIR$/gulishangcheng-order/pom.xml" />
+        <option value="$PROJECT_DIR$/gulishangcheng-member/pom.xml" />
+        <option value="$PROJECT_DIR$/gulishangcheng-coupon/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,13 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gulishangcheng" />
+        <module name="gulishangcheng-order" />
+        <module name="gulishangcheng-member" />
+        <module name="gulishangcheng-product" />
+        <module name="gulishangcheng-ware" />
+        <module name="gulishangcheng-coupon" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="gulishangcheng" options="-parameters" />
+      <module name="gulishangcheng" options="" />
+      <module name="gulishangcheng-coupon" options="-parameters" />
+      <module name="gulishangcheng-member" options="-parameters" />
+      <module name="gulishangcheng-order" options="-parameters" />
+      <module name="gulishangcheng-product" options="-parameters" />
+      <module name="gulishangcheng-ware" options="-parameters" />
     </option>
   </component>
 </project>
