@@ -8,6 +8,7 @@ public class GulishangchengCouponApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GulishangchengCouponApplication.class, args);
+        System.out.println("111");
     }
 
 }
